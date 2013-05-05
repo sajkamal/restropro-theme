@@ -194,7 +194,8 @@ body {
 
 
 .element * {
-  position: absolute;
+  /*position: absolute;*/
+  display:inline-block;
   margin: 0;
 }
 
